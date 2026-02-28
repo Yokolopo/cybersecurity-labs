@@ -1,0 +1,25 @@
+# Network Enumeration & Initial Access Lab
+
+## Objective
+Identify exposed services and obtain initial access in a controlled lab environment.
+
+## Environment
+- Kali Linux Attacker
+- Vulnerable Linux Target
+
+## Tools
+- Nmap
+- Hydra
+- FTP
+
+## Steps
+1. Network scanning
+2. Service enumeration
+3. Credential brute force
+4. Initial access
+
+## Result
+Successfully authenticated to target service.
+
+## Security Recommendation
+Disable unused services and enforce strong authentication.
